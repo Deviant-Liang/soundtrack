@@ -1,1 +1,1 @@
-# soundtrack
+# Soundtrack## Film Music PracticeFinal project about custom music of an existing animation.The source file is at the folder.## Environment  * Daw: Waveform free* All free plugins from Spitfire Audio* Without MIDI controller## Link[Final work presenting on YouTube](https://www.youtube.com/watch?v=Gi91h0ADXRE)
